@@ -12,7 +12,8 @@
 
 ---
 
-> **CONTEXT SCREENSHOT HERE** *(splash screen / hero shot of the web app)*
+> **<img width="2559" height="1305" alt="Screenshot 2026-03-20 123122" src="https://github.com/user-attachments/assets/78663b10-b174-475e-993f-fc205bff825b" />
+** *(splash screen / hero shot of the web app)*
 
 </div>
 
