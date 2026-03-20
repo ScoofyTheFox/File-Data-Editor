@@ -40,7 +40,7 @@ Every photo you shoot with a phone or camera has it — most people never see it
 
 ## 🌐 Web Version `[RECOMMENDED]`
 
-> **CONTEXT SCREENSHOT HERE** *(drop zone / landing screen)*
+<img width="810" height="453" alt="Screenshot 2026-03-20 123652" src="https://github.com/user-attachments/assets/31694d31-d705-4a89-ab12-a083221d3eb7" />
 
 ### Usage
 1. Open `medit-site/medit.html` in any browser
@@ -49,7 +49,8 @@ Every photo you shoot with a phone or camera has it — most people never see it
 4. Click any field → type a new value → it saves instantly
 5. Hit **↓ Download** to get your edited image
 
-> **CONTEXT SCREENSHOT HERE** *(editor open with a category selected and fields visible)*
+<img width="2523" height="1149" alt="Screenshot 2026-03-20 123831" src="https://github.com/user-attachments/assets/e8f2c835-f3c7-43f7-bfe8-5b940b2a21d3" />
+
 
 ### Supported Formats
 
@@ -66,7 +67,8 @@ Every photo you shoot with a phone or camera has it — most people never see it
 
 ## 💻 CLI Version
 
-> **CONTEXT SCREENSHOT HERE** *(terminal showing the main menu)*
+<img width="1466" height="1051" alt="Screenshot 2026-03-20 124419" src="https://github.com/user-attachments/assets/c2abf540-b082-4a5f-a781-ed2172c008a2" />
+
 
 ### Install
 
@@ -121,7 +123,7 @@ numpy>=1.24.0
 | 🔍 Extract message | Read a hidden message back out of any image |
 | 🔁 Clone EXIF | Copy all metadata from one image onto another |
 
-> **CONTEXT SCREENSHOT HERE** *(CLI category browser showing field list with values)*
+<img width="498" height="261" alt="Screenshot 2026-03-20 124518" src="https://github.com/user-attachments/assets/6579c8cf-143d-4684-925f-d1a9023ae443" />
 
 ---
 
